@@ -2,8 +2,8 @@
 
 ## 📫 How to reach me: 
 
-- Twitter: [robfrank] (https://twitter.com/robfrankie)
-- Linedin: [robftanl] (https://www.linkedin.com/in/robfrank/)
+- Twitter: [robfrankie](https://twitter.com/robfrankie)
+- Linedin: [robfrank](https://www.linkedin.com/in/robfrank/)
 
 <!--
 **robfrank/robfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
