@@ -3,7 +3,6 @@
 ## 📫 How to reach me: 
 
 - BlueSky: [robfrankie](https://bsky.app/profile/robfrankie.bsky.social)
-- Twitter: [robfrankie](https://twitter.com/robfrankie)
 - Linedin: [robfrank](https://www.linkedin.com/in/robfrank/)
 
 <!--
